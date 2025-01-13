@@ -1,0 +1,12 @@
+# netlify 网站托管服务重定向配置
+[[redirects]]
+from = "https://www.akirako.top"
+to = "https://blog.akirako.top"
+status = 301
+force = true
+
+[[redirects]]
+from = "https://akirako.top"
+to = "https://blog.akirako.top"
+status = 301
+force = true
